@@ -1,0 +1,66 @@
+Code Book for summary information for subjects and their activities
+Data File:summary.txt
+====================================================================
+
+"Subject"			Text                          
+"Activity"			Text                        
+"BodyAccMeanX"			Numeric                     
+"BodyAccMeanY"  		Numeric                                       
+"BodyAccMeanZ"                  Numeric                        
+"BodyAccStdX"                   Numeric                       
+"BodyAccStdY"                   Numeric                        
+"BodyAccStdZ"                   Numeric                       
+"GravityAccMeanX"               Numeric                        
+"GravityAccMeanY"               Numeric                       
+"GravityAccMeanZ"               Numeric                        
+"GravityAccStdX"                Numeric                       
+"GravityAccStdY"                Numeric                        
+"GravityAccStdZ"                Numeric                       
+"BodyAccJerkMeanX"              Numeric                        
+"BodyAccJerkMeanY"              Numeric                       
+"BodyAccJerkMeanZ"              Numeric                        
+"BodyAccJerkStdX"               Numeric                       
+"BodyAccJerkStdY"               Numeric                        
+"BodyAccJerkStdZ"               Numeric                       
+"BodyGyroMeanX"                 Numeric                        
+"BodyGyroMeanY"                 Numeric                       
+"BodyGyroMeanZ"                 Numeric                        
+"BodyGyroStdX"                  Numeric                       
+"BodyGyroStdY"                  Numeric                        
+"BodyGyroStdZ"                  Numeric                       
+"BodyGyroJerkMeanX"             Numeric                        
+"BodyGyroJerkMeanY"             Numeric                       
+"BodyGyroJerkMeanZ"             Numeric                        
+"BodyGyroJerkStdX"              Numeric                       
+"BodyGyroJerkStdY"              Numeric                        
+"BodyGyroJerkStdZ"              Numeric                       
+"BodyAccMagMean"                Numeric                        
+"BodyAccMagStd"                 Numeric                       
+"GravityAccMagMean"             Numeric                        
+"GravityAccMagStd"              Numeric                       
+"BodyAccJerkMagMean"            Numeric                        
+"BodyAccJerkMagStd"             Numeric                       
+"BodyGyroMagMean"               Numeric                        
+"BodyGyroMagStd"                Numeric                       
+"BodyGyroJerkMagMean"           Numeric                        
+"BodyGyroJerkMagStd"            Numeric                       
+"BodyAccMeanFreqX"              Numeric                        
+"BodyAccMeanFreqY"              Numeric                       
+"BodyAccMeanFreqZ"              Numeric                        
+"BodyAccJerkMeanFreqX"          Numeric                       
+"BodyAccJerkMeanFreqY"          Numeric                        
+"BodyAccJerkMeanFreqZ"          Numeric                       
+"BodyGyroMeanFreqX"             Numeric                        
+"BodyGyroMeanFreqY"             Numeric                       
+"BodyGyroMeanFreqZ"             Numeric                        
+"BodyAccMagMeanFreq"            Numeric                       
+"BodyAccJerkMagMeanFreq"        Numeric                        
+"BodyGyroMagMeanFreq"           Numeric                       
+"BodyGyroJerkMagMeanFreq"       Numeric                        
+"AngleBodyAccMeangravity"       Numeric                       
+"AngleBodyAccJerkMeangravityMean"Numeric                       
+"AngleBodyGyroMeangravityMean"  Numeric                       
+"AngleBodyGyroJerkMeangravityMean"Numeric                      
+"AngleXgravityMean"             Numeric                       
+"AngleYgravityMean"             Numeric                        
+"AngleZgravityMean" 		Numeric                     
